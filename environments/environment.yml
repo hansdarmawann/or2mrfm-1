@@ -83,4 +83,3 @@ dependencies:
       - seaborn==0.13.2
       - threadpoolctl==3.6.0
       - tzdata==2025.3
-prefix: C:\Users\U1\miniconda3\envs\orfm-1
