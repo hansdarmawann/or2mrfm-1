@@ -1,2 +1,3 @@
-# or2mrfm1
-Lorem Ipsum Dolor Sit Amet
+# Customer Segmentation Using RFM Analysis and K‑Means Clustering
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin volutpat, ligula eu sollicitudin feugiat, justo eros varius nisl, id tempor felis dolor et dui. Cras mollis scelerisque tempor. Praesent dignissim elit convallis tempor pharetra. Pellentesque sagittis, lectus a semper mollis, nulla nibh fermentum dui, vitae feugiat felis libero vel nulla. Quisque laoreet placerat urna non cursus. Nullam commodo, metus lobortis varius malesuada, magna sapien aliquet orci, sit amet fringilla risus quam sit amet sem. Sed id est ac purus rutrum porta. Suspendisse sed neque nisi. Fusce dignissim ipsum at dolor efficitur rhoncus. Nullam et arcu eu lectus pretium commodo eget in orci. Proin consequat vel purus at aliquet. Sed ac sem eleifend, tincidunt tellus eu, feugiat sem. Aliquam dapibus diam eu lectus rutrum finibus.
